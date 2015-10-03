@@ -1,4 +1,4 @@
-# How to install Program or Package  #backend
+# How to install Program or Package     #backend
 
 
 
@@ -14,7 +14,7 @@
 
 ### 2.Install ExpressJS
 ```
- npm init    ---> create file package.json
+ npm init                       ---> create file package.json
  npm install express --save     ---> install package express make for server
 
 ```
@@ -27,7 +27,7 @@
 
 ### 4.Install Socketio
 ```
- npm init    ---> create file package.json
+ npm init                              ---> create file package.json
  npm install --save express@4.10.2     ---> install package express make for server
- npm install --save socket.io     ---> install package socketio
+ npm install --save socket.io          ---> install package socketio
 ```
