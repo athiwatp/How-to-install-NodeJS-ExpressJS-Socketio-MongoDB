@@ -11,3 +11,9 @@
  sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 ```
+
+### 2.Install ExpressJS
+```
+ npm init    ---> create file package.json
+
+```
