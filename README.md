@@ -53,5 +53,5 @@
 ### 2. start MongoDB
 ```
  mongod --dbpath ./data
- sudo apt-get install libkrb5-dev
+ sudo apt-get install libkrb5-dev   ---> สำหรับ ubuntu ต้องลง 
 ```
