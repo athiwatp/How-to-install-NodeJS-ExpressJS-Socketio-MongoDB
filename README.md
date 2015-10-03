@@ -31,3 +31,26 @@
  npm install --save express@4.10.2     ---> install package express make for server
  npm install --save socket.io          ---> install package socketio
 ```
+
+
+
+
+# How to install MongoDB
+
+
+
+### 1. install
+```
+ mkdir myproject                    ---> create folder project
+ cd myproject
+ mkdir data                         ---> create folder for database
+ npm init
+ npm install 
+ 
+```
+
+### 2. start MongoDB
+```
+ mongod --dbpath ./data
+ sudo apt-get install libkrb5-dev
+```
