@@ -4,6 +4,6 @@
 
 
 ### 1.NodeJS
-,,,
+```
 curl -sL https://deb.nodesource.com/setup | sudo bash -
-,,,
+```
