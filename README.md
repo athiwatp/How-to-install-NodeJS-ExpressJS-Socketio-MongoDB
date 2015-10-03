@@ -1,4 +1,4 @@
-# How to install Program or Package for Exam 
+# How to install Program or Package  #backend
 
 
 
@@ -16,11 +16,18 @@
 ```
  npm init    ---> create file package.json
  npm install express --save     ---> install package express make for server
- run node Namefile.js
+
 ```
 
 ### 3.Install http-server
 ```
  npm install http-server -g
- run http-server
-``` 
+ 
+```
+
+### 4.Install Socketio
+```
+ npm init    ---> create file package.json
+ npm install --save express@4.10.2     ---> install package express make for server
+ npm install --save socket.io     ---> install package socketio
+```
