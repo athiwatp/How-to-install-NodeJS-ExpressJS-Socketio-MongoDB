@@ -3,5 +3,11 @@
 
 
 
-### 1.NodeJS
- > curl -sL https://deb.nodesource.com/setup | sudo bash -
+### 1.Install NodeJS & npm
+```
+ curl -sL https://deb.nodesource.com/setup | sudo bash -
+ sudo apt-get install nodejs
+ sudo apt-get install npm
+ sudo ln -s /usr/bin/nodejs /usr/bin/node
+
+```
