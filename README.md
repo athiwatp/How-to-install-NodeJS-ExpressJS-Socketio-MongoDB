@@ -3,7 +3,7 @@
 
 
 
-### 1.Install NodeJS & npm
+### 1. Install NodeJS & npm
 ```
  curl -sL https://deb.nodesource.com/setup | sudo bash -
  sudo apt-get install nodejs
@@ -12,20 +12,20 @@
 
 ```
 
-### 2.Install ExpressJS
+### 2. Install ExpressJS
 ```
  npm init                       ---> create file package.json
  npm install express --save     ---> install package express make for server
 
 ```
 
-### 3.Install http-server
+### 3. Install http-server
 ```
  npm install http-server -g
  
 ```
 
-### 4.Install Socketio
+### 4. Install Socketio
 ```
  npm init                              ---> create file package.json
  npm install --save express@4.10.2     ---> install package express make for server
