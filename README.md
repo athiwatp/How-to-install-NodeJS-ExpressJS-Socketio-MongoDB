@@ -46,6 +46,7 @@
  mkdir data                         ---> create folder for database
  npm init
  npm install 
+ npm install mongoose               ---> create package "mongoose" use with mongodb for build schema
  
 ```
 
