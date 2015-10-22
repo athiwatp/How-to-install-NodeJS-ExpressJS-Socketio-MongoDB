@@ -40,11 +40,12 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 
 ### 1. Install NodeJS & npm
 ```
- curl -sL https://deb.nodesource.com/setup | sudo bash -
+ apt-get install curl
+ curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
  sudo apt-get install nodejs
- sudo apt-get install npm
- sudo ln -s /usr/bin/nodejs /usr/bin/node
-
+ 
+ check version -->   node -v
+ check npm     -->   npm -v
 ```
 
 ### 2. Install ExpressJS
