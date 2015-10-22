@@ -43,6 +43,7 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
  apt-get install curl
  curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
  sudo apt-get install nodejs
+ sudo apt-get install npm
  
  check version -->   node -v
  check npm     -->   npm -v
