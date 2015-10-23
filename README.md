@@ -43,7 +43,7 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 
 ### 2. Text editor plugins(Sublime)
 ```
- Using Package Control, install SublimeLinter and SublimeLinter-contrib-standard.
+ Using Package Control, install "SublimeLinter" and "SublimeLinter-contrib-standard"
 
 ```
 
