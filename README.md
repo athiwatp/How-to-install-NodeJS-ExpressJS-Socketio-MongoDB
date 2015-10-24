@@ -107,4 +107,6 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 ```
  mongod --dbpath ./data
  sudo apt-get install libkrb5-dev   ---> สำหรับ ubuntu ต้องลง 
+ sudo apt-get install mongodb-server
 ```
+
